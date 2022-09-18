@@ -1,9 +1,8 @@
 # Simple Bank API System Simulator
-- A simple RESTful API simulating a mini bank system
-- Created in the 2nd challenge of Cubos Academy for the Backend Developer study class
 
-_____________
-# Demand
+- Uma simples API REST simulando um sistema bancário
+- Criado no 2º desafio da Cubos Academy para a turma de estudos de Desenvolvimento Backend
+____
 
 ![](https://i.imgur.com/xG74tOh.png)
 
